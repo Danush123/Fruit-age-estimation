@@ -14,3 +14,5 @@ An android application is used to select and upload the fruit's image to the Fir
 >The android application:
 
 ![Android application](app.png)
+
+The fruit(banana) was monitored for 5 days and videos were taken each day. These videos were converted into individual images using this [code](vid_to_frames.py)
