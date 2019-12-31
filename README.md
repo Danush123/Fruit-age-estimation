@@ -1,3 +1,3 @@
 # Fruit-age-estimation
-/**An image classifier to estimate the age of fruits.**/
+_**An image classifier to estimate the age of fruits.**_
 ![Flow](flow.png)
